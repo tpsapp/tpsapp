@@ -7,7 +7,7 @@ I have been programming since I was in 5th grade starting with a Tandy Color Com
 Connect with me on...
 * [Personal Site](https://www.thomassapp.com)
 * [Company Site](https://www.sappsworld.com)
-* [Twitter](https://www.twitter.com/tpsapp)
+* [Twitter](https://www.twitter.com/raisor)
 * [Facebook](https://www.facebook.com/tpsapp)
 * [Dev.to](https://dev.to/tpsapp)
 * [GitHub](https://www.github.com/tpsapp)
