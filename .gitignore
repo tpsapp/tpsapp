@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But don't ignore these files
+!README.md
+!.gitignore
+
+# If there are directories you want to keep tracked, unignore them explicitly.
+# Example: keep the docs directory
+# !/docs/
