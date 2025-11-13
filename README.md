@@ -40,7 +40,7 @@ I have been programming since I was in 5th grade, starting with a Tandy Color Co
 
 #### Skills
 
-- **Programming Languages**: HTML, CSS3, JavaScript, C#, C, C++, Java, Pascal, VB, PHP, MySQL
+- **Programming Languages**: HTML, CSS3, JavaScript, C#, C, C++, Java, Pascal, VB, PHP, MySQL, Python
 - **Frameworks and Tools**: WordPress, .Net
 - **Other Skills**: Customer Service, Computer Technician
 
@@ -53,3 +53,4 @@ I have been programming since I was in 5th grade, starting with a Tandy Color Co
 - [Facebook](https://www.facebook.com/tpsapp)
 - [Dev.to](https://dev.to/tpsapp)
 - [GitHub](https://www.github.com/tpsapp)
+
