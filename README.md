@@ -37,6 +37,7 @@ I have been programming since I was in 5th grade, starting with a Tandy Color Co
 - MCPS: Microsoft Certified Professional
 - MCSA: Windows 2000
 - ITIL Foundation in Information Management
+- CISSP: Certified Information Systems Security Professional
 
 #### Skills
 
